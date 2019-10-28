@@ -1,0 +1,38 @@
++++
+title = " 20190912_Y6XW3fcTbI8 Weiping Show |Mr .Lobsang Nyandak’s speech : His Holiness of the Dalai Lama—service to Humanity "
+description = " 2019年9月12日，西藏基金会主席、前尊者达赖喇嘛驻北美代表洛桑念扎先生应邀在美国马里兰州哈弗德社区大学发表演讲，主题为尊者达赖喇嘛的体系传承。 "
+weight = 20
++++
+
+{{< mymp4 mp4="20190912_Y6XW3fcTbI8.info.json.webm.mp4" 
+text="len 46113330"
+>}}
+
+{{< mymp4x  mp4x="20190912_Y6XW3fcTbI8.info.json.25k.mp4"
+text="len 11665224"
+>}}
+
+{{< mymp4x  mp4x="20190912_Y6XW3fcTbI8.info.json.48k.mp4"
+text="len 22287574"
+>}}
+
+
+{{< mydiv text="2019年9月12日，西藏基金会主席、前尊者达赖喇嘛驻北美代表洛桑念扎先生应邀在美国马里兰州哈弗德社区大学发表演讲，主题为尊者达赖喇嘛的体系传承。" >}}
+<br>
+
+{{< mydiv link="https://www.youtube.com/watch?v=Y6XW3fcTbI8" >}}
+
+
+<br>
+
+请大家传播时，不需要传播文件本身，<br>
+原因是：一旦传播过大东西（例如，图片，文件），<br>
+就会触发检查机制。<br>
+我不知道检查机制的触发条件。<br>
+但是我知道，不会说你传一个没有敏感词的网络地址都检查，<br>
+否则，检查员得累死。<br><br>
+直接转发网址就可以了：<br>
+原因是，这是程序员网站，<br>
+共匪不敢封锁，墙内可以直接下载。
+
+
